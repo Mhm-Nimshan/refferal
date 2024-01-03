@@ -28,7 +28,7 @@ const Banner = () => {
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-lg-12">
-              <div className="main-content d-flex align-items-center justify-content-between">
+              <div className="main-content d-flex align-items-center justify-content-between text-center">
                 <div className="left-side">
                   <Image src={affiliate_banner_1} alt="image" />
                 </div>
